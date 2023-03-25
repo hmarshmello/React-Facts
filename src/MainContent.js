@@ -10,8 +10,8 @@ export default function MainContent() {
                 <li>I'm more likely to get a job as a developer
                 if I know React</li>
                 <li>It's a great way to learn JavaScript</li>
-                <li>C G mereko Pyaara</li>    
-                
+                <li>C G mereko Pyaaraaaaaaaaa</li>    
+
             </ol>
         </div>
     )
